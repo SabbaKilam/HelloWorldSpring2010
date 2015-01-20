@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-size: 3rem;
+    background: lightgray;
+    color: white;
+}
+
+#content{
+    width: 80rem;
+    min-height: 100%;
+    margin: 5rem auto;
+    padding: 5rem;
+    box-shadow: 1rem 1rem 1rem black;
+    text-shadow: 0.25rem 0.25rem 0.25rem black;    
+    border-radius: 2rem;
+    background: lightblue;
+    
+
+}
