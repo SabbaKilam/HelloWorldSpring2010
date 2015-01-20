@@ -16,5 +16,7 @@
     </author>
     <icon src="icon.png" />
     <gap:splash src="icon.png" gap:platform="android" width="320" height="480" />    
+    
+    <gap:splash src="splash.png" />  
     </widget> 
-    <gap:splash src="splash.png" />    
+  
